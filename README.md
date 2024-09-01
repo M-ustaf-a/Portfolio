@@ -15,7 +15,7 @@ This repository showcases my design portfolio, a curated collection of my best w
 
 **Explore the Portfolio:**
 
-* **[Link to Live Portfolio]** \- Visit the live portfolio website and experience the designs firsthand\.
+* **[Link to Live Portfolio]** https://portfolio-gold-eight-69.vercel.app/
 
 **Getting Started:**
 
