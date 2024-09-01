@@ -86,11 +86,11 @@ export const projects = [
   },
   {
     id: 2,
-    title: "PodcastAI",
-    des: "This project uses AI to turn written podcast scripts into fully produced audio episodes. Users simply write the content, and the AI generates the podcast, including voice synthesis.",
-    img: "/p.png",
-    iconLists: ["/next.svg", "/tail.svg", "/iconi.png", "/ts.svg", "/c.svg"],
-    link: "https://podcast-ai-liart.vercel.app/",
+    title: "Portfolio",
+    des: "A design portfolio is a curated collection of a designer's best work, showcasing their skills, creativity, and expertise.",
+    img: "Templates.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
+    link: "https://portfolio-gold-eight-69.vercel.app/",
   },
   {
     id: 3,
@@ -109,11 +109,11 @@ export const projects = [
   },
   {
     id: 4,
-    title: "Portfolio",
-    des: "A design portfolio is a curated collection of a designer's best work, showcasing their skills, creativity, and expertise.",
-    img: "Templates.png",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "https://portfolio-gold-eight-69.vercel.app/",
+    title: "PodcastAI",
+    des: "This project uses AI to turn written podcast scripts into fully produced audio episodes. Users simply write the content, and the AI generates the podcast, including voice synthesis.",
+    img: "/p.png",
+    iconLists: ["/next.svg", "/tail.svg", "/iconi.png", "/ts.svg", "/c.svg"],
+    link: "https://podcast-ai-liart.vercel.app/",
   },
   // {
   //   id: 4,
@@ -129,14 +129,16 @@ export const testimonials = [
   {
     quote:
       "Collaborating with Mustafa was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Mustafa enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Mustafa is the ideal partner.",
-    name: "",
-    title: "",
+    name: "Atique Rahman",
+    title: "Founder of Human awaam organization",
+    image: ["/1.svg"],
   },
   {
     quote:
-      "Collaborating with Mustafa was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Mustafa enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "",
-    title: "",
+      "The code quality and structure provided by this developer are outstanding. They consistently deliver efficient and maintainable solutions.",
+    name: "Hiba Khan",
+    title: "co-founder of Medicox.org",
+    image: ["/1.svg"],
   },
 ];
 
@@ -197,7 +199,7 @@ export const workExperience = [
   },
   {
     id: 4,
-    title: "Lead Frontend Developer",
+    title: "Frontend Developer Intern",
     desc: "Developed and maintained user-facing features using modern frontend technologies.",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
