@@ -107,6 +107,14 @@ export const projects = [
     ],
     link: "https://homestead-ei7m.onrender.com/listings",
   },
+  {
+    id: 4,
+    title: "Portfolio",
+    des: "A design portfolio is a curated collection of a designer's best work, showcasing their skills, creativity, and expertise.",
+    img: "Templates.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
+    link: "https://portfolio-gold-eight-69.vercel.app/",
+  },
   // {
   //   id: 4,
   //   title: "Animated Apple Iphone 3D Website",
@@ -127,8 +135,8 @@ export const testimonials = [
   {
     quote:
       "Collaborating with Mustafa was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Mustafa enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    name: "",
+    title: "",
   },
 ];
 
